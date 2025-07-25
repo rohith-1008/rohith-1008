@@ -52,11 +52,22 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Contributions
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohith-1008&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohith-1008&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rohith-1008&show_icons=true&theme=tokyonight&count_private=true&hide=issues" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohith-1008&theme=tokyonight" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith-1008&layout=compact&theme=tokyonight&langs_count=8" width="48%" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rohith-1008&theme=tokyo-night&bg_color=1A1B27&hide_border=true&area=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohith-1008&theme=onedark&no-frame=true&column=7&margin-w=5" />
+</p>
+
 
 ---
 
