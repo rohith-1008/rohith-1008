@@ -109,6 +109,7 @@ A full-stack Java Spring Boot + React project to manage insurance claims efficie
 </p>
 
 ---
-
-> 💬 “Consistency is more important than intensity.” – James Clear
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=9E00FF&vCenter=true&width=600&lines=Thanks+for+visiting!+Follow+for+more+projects+%F0%9F%9A%80;Always+building+something+awesome+%F0%9F%94%A5" />
+</p>
 
