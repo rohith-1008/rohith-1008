@@ -21,12 +21,13 @@
 ### 🌱 Learning Interests
 - Machine Learning models
 - Backend development with Spring Boot
-
+- Frontend developer
 ---
 
 ### 💬 Ask Me About
-- Java, Python, JavaScript
+- Java, Python, JavaScript, C
 - Web development with HTML & CSS
+- MySQL, OOP's
 
 ---
 
