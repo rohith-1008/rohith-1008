@@ -83,7 +83,6 @@ A full-featured event management web app built with HTML, CSS, and JavaScript.
 A personal finance manager app to track income, expenses, categories, and analytics.  
 ✅ Features: Date/category filters 📅, CSV export 📤, dark mode 🌙, pie charts 📊, and custom category management with `localStorage`.
 
-🔗 [View Project](https://github.com/rohith-1008/budget-buddy)
 ---
 
 ### 🔹 [My Portfolio](https://github.com/rohith-1008/rohith-ai-portfolio)
