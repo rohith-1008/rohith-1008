@@ -71,16 +71,19 @@ A full-stack Java Spring Boot + React project to manage insurance claims efficie
 
 ---
 
-### 🔹 [Event Buddy](https://github.com/rohith-1008/event-buddy)
+### 🔹 Event Buddy
 A full-featured event management web app built with HTML, CSS, and JavaScript.  
 ✅ Features: Event scheduling, reminders, filter/search, responsive design.
 
+🔗 [View Project](https://github.com/rohith-1008/event-buddy)
+
 ---
 
-### 🔹 [Budget Buddy](https://github.com/rohith-1008/budget-buddy)
+### 🔹 Budget Buddy
 A personal finance manager app to track income, expenses, categories, and analytics.  
 ✅ Features: Date/category filters 📅, CSV export 📤, dark mode 🌙, pie charts 📊, and custom category management with `localStorage`.
 
+🔗 [View Project](https://github.com/rohith-1008/budget-buddy)
 ---
 
 ### 🔹 [My Portfolio](https://github.com/rohith-1008/rohith-ai-portfolio)
